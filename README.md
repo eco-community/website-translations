@@ -30,5 +30,5 @@ if, for example you want to translate [this page](https://support.eco.com/en/art
 
 You can copy this line at the end of the created index.html
 ```html
-<script src="/inject-warning-header.js"></script>
+
 ```
