@@ -15,8 +15,8 @@ Here's a list of who's managing the current translation
 
 | Languages     | Maintainers (discord name's) | Status  
 | ------------- |:-------------:| -----: |
-Korean | @billionaireW & passenger | completed
-Russian | @Sergio \[Nodes.Guru]  & Sergey (ICO Drops) | completed
+Korean | @billionaireW | completed
+Russian | @Sergio \[Nodes.Guru]  & passenger | completed
 French | @jeremie & Redallica | [work in progress](https://github.com/eco-translations/eco-translations.github.io/blob/master/doc/fr/status.md)
 
 You are familiar with github? you can directly submit a pull request.
