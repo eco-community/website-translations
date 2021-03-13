@@ -1,14 +1,25 @@
 # What's 'eco-translations' ?
 
-Eco-translation is a community driven translation proposals for eco.com
+These are community driven translations proposals for https://eco.com
+This website as been translated by its community in Russian, Korean and partly in French :
 
-# How can I get involve ?
+[Korean](https://eco-community.github.io/website-translations/ko/)  
+[Russian](https://eco-community.github.io/website-translations/ru/)  
+[French](https://eco-community.github.io/website-translations/fr/)  
 
-If you are familiar with github, you can directly submit a pull request, if not you can ask on to Jeremie#7539 on the Eco discord server the translation or correction you worked on, and want to push on https://eco-translations.github.io/
+# How can I get involve?
 
-# How can I check the status of the translations ?
+You find a broken link, or you think there's a better way to translate what you found exploring theses traductions, please let community members know to improve it.
 
-You can check the status [here](https://github.com/eco-translations/eco-translations.github.io/blob/master/doc/status.md)
+Here's a list of who's managing the current translation
+
+| Languages     | Maintainers (discord name's) | Status  
+| ------------- |:-------------:| -----: |
+Korean | @billionaireW & passenger | completed
+Russian | @Sergio \[Nodes.Guru]  & Sergey (ICO Drops) | completed
+French | @jeremie & Redallica | [work in progress](https://github.com/eco-translations/eco-translations.github.io/blob/master/doc/fr/status.md)
+
+You are familiar with github? you can directly submit a pull request.
 
 # How to create a new translation 
 
@@ -28,7 +39,7 @@ if, for example you want to translate [this page](https://support.eco.com/en/art
 
 # How to add the non official warning disclaimer 
 
-You can copy this line at the end of the created index.html
+You can copy this line at the end of the created new index.html
 ```html
-
+<script src="/website-translations/inject-warning-header.js"></script>
 ```
