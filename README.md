@@ -1,4 +1,4 @@
-#What's 'eco-translations'?
+# What's 'eco-translations'?
 
 These are community-driven proposals for the Eco.com website, the translations are made by the Eco community. These are the already submitted languages:
 
@@ -8,7 +8,7 @@ These are community-driven proposals for the Eco.com website, the translations a
 [Portuguese (Portugal)](https://eco-community.github.io/website-translations/pt-PT/)
 
 
-#How can you be involved?
+# How can you be involved?
 
 Some ways for you to be involved are to find a broken link and fix it, suggest better translations, make translations to a language that is not available yet, or give your feedback and let the community know how to improve the workflow.
 
@@ -22,7 +22,7 @@ French | @jeremie & @Redallica | [work in progress](https://github.com/eco-trans
 Portuguese (Portugal) | @Saulo | [work in progress](https://github.com/eco-translations/eco-translations.github.io/blob/master/doc/fr/status.md)
 
 
-#How to suggest a new translation
+# How to suggest a new translation
 
 Are you familiar with GitHub? You can directly submit a pull request this way:
 
@@ -41,7 +41,7 @@ For example, if you want to suggest a translation to [this page](https://support
 - Once your pull request is approved, the page will be visible at `https://eco-translations.github.io/es-ES/articles/4620326-is-my-eco-account-covered-by-the-fdic`
 
 
-#How to add the non-official warning disclaimer 
+# How to add the non-official warning disclaimer 
 
 You can copy this line of code and insert it at the end of the `index.html` file you created:
 ```html
