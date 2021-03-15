@@ -21,7 +21,7 @@ Point can be claimed by tagging @Jeremie in discord
 | ABOUT        | [/about](https://www.eco.com/about) | [Proposal](https://eco-translations.github.io/website-translations/fr/about)   |  Online | @Arthur Weis 
 | Eco is not a bank  | [/eco-is-not-a-bank](https://www.eco.com/posts/eco-is-not-a-bank)   | [Proposal](https://eco-translations.github.io/website-translations/fr/posts/eco-is-not-a-bank)  | Online | @Arthur Weis  | @getordone
 | How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | Proposal | Online | AkaKwak🦆#8686
-| How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | none 
+| How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | Proposal | Online | AkaKwak🦆#8686
 | New tech: same as the old | [/new-technology](https://www.eco.com/posts/new-technology)  | none 
 |  Blockchain and cryptocurrencies, for real | [/new-technology](https://www.eco.com/posts/blockchain-and-cryptocurrencies)  | Work in progress | @Jeremie
 |  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| none  
