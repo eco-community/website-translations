@@ -3,9 +3,9 @@
 These are community-driven proposals for the Eco.com website, the translations are made by the Eco community. These are the already submitted languages:
 
 [Korean](https://eco-community.github.io/website-translations/ko-KR/)  
-[Russian](https://eco-community.github.io/website-translations/ru-RU/)
-[French](https://eco-community.github.io/website-translations/fr-FR/)
-[Portuguese (Portugal)](https://eco-community.github.io/website-translations/pt-PT/)
+[Russian](https://eco-community.github.io/website-translations/ru-RU/)  
+[French](https://eco-community.github.io/website-translations/fr-FR/)  
+[Portuguese (Portugal)](https://eco-community.github.io/website-translations/pt-PT/)  
 
 
 # How can you be involved?
