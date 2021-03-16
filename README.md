@@ -1,45 +1,48 @@
-# What's 'eco-translations' ?
+# What's 'eco-translations'?
 
-These are community driven translations proposals for https://eco.com
-This website as been translated by its community in Russian, Korean and partly in French :
+This repository contains community-driven proposed translations for the website [Eco.com](https://eco.com), the already submitted languages are:
 
 [Korean](https://eco-community.github.io/website-translations/ko/)  
 [Russian](https://eco-community.github.io/website-translations/ru/)  
 [French](https://eco-community.github.io/website-translations/fr/)  
 
-# How can I get involve?
 
-You find a broken link, or you think there's a better way to translate what you found exploring theses traductions, please let community members know to improve it.
+# How can you be involved?
 
-Here's a list of who's managing the current translation
+Some ways for you to be involved are to find a broken link and fix it, suggest better translations, make translations to a language that is not available yet, or give your feedback and let the community know how to improve the workflow.
 
-| Languages     | Maintainers (discord name's) | Status  
+Here's a list of who's contributing to each translation:
+
+| Languages | Maintainers (discord's username) | Status  
 | ------------- |:-------------:| -----: |
 Korean | @billionaireW | completed
-Russian | @Sergio \[Nodes.Guru]  & passenger | completed
-French | @jeremie & Redallica | [work in progress](https://github.com/eco-translations/eco-translations.github.io/blob/master/doc/fr/status.md)
+Russian | @Sergio \[Nodes.Guru]  & @passenger | completed
+French | @jeremie & @Redallica | [work in progress](https://github.com/eco-translations/eco-translations.github.io/blob/master/doc/fr/status.md)
+Portuguese (Portugal) | @Saulo | work in progress
 
-You are familiar with github? you can directly submit a pull request.
 
-# How to create a new translation 
+# How to suggest a new translation
 
-if, for example you want to translate [this page](https://support.eco.com/en/articles/4620326-is-my-eco-account-covered-by-the-fdic) in spanish you can : 
-- Create a `es` Folder at the root of this project
-- Create a `articles` Folder inside the `es` folder
-- Create a  `4620326-is-my-eco-account-covered-by-the-fdic` folder  inside `es/articles`
-- From your terminal go to `es/articles/4620326-is-my-eco-account-covered-by-the-fdic` Folder and make a copy of the official page with the following command 
+Are you familiar with GitHub? You can directly submit a pull request this way:
+
+For example, if you want to suggest a translation to [this page](https://support.eco.com/en/articles/4620326-is-my-eco-account-covered-by-the-fdic) in Spanish you can:
+
+- Create an `es` folder at the root of this project
+- Create an `articles` folder inside the `es` folder
+- Create a `4620326-is-my-eco-account-covered-by-the-fdic` folder  inside `es/articles`
+- From your terminal go to the `es/articles/4620326-is-my-eco-account-covered-by-the-fdic` folder and make a copy of the official page with the following command 
   ```bash 
   wget https://support.eco.com/en/articles/4620326-is-my-eco-account-covered-by-the-fdic
   ```
-- Rename the downloaded document into `index.html`
-- Translate the text inside index.html
-- Submit a pull request so other can check and verify your translation
-- Once your pull request approved, your this page would be visible at : https://eco-translations.github.io/es/articles/4620326-is-my-eco-account-covered-by-the-fdic
+- Rename the downloaded file to `index.html`
+- Translate the text inside the `index.html` file
+- Submit a pull request so other community members can check and verify your translation
+- Once your pull request is approved, the page will be visible at `https://eco-translations.github.io/es/articles/4620326-is-my-eco-account-covered-by-the-fdic`
 
 
-# How to add the non official warning disclaimer 
+# How to add the non-official warning disclaimer 
 
-You can copy this line at the end of the created new index.html
+You can copy this line of code and insert it at the end of the `index.html` file you created:
 ```html
 <script src="/website-translations/inject-warning-header.js"></script>
 ```
