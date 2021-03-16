@@ -1,6 +1,6 @@
 # What's 'eco-translations'?
 
-These are community-driven proposals for the Eco.com website, the translations are made by the Eco community. These are the already submitted languages:
+These are community-driven proposed translations for the website [Eco.com](https://eco.com). These are the already submitted languages:
 
 [Korean](https://eco-community.github.io/website-translations/ko/)  
 [Russian](https://eco-community.github.io/website-translations/ru/)  
