@@ -1,31 +1,24 @@
-#  1 Priorities 
+#  1 French translation : Status
 
-As the app is not only available in US for now, and the FAQ is mostly about how to use the app the main priority is to have the website onboarding translated.
+The most important page are already translated in french. Still all of the pages bellow need reviewer and improvments. If you find anything to improve, you can directly submit a pull request or chat in #fr-eco discor channel in order to find someone which can help you to submit your modification. 
 
-Here's a list of what I think it's the most important to cover first. Feel free to propose other ressources
+All contributions will be rewarded in Eco-points
 
-## 1.1 Priorities reward
 
-- for each new page translated ( can just be send in a message to @jeremie): 5 points
-- for each page submited to github properly ( [link and disclaimer warning properly set up](https://eco-translations.github.io/website-translations/fr/  ) ) : 5 points
-- for each improvment approved on already existing translations : 1 points
-- Each approved pull request not covered by the points below will be rewarded : 5 to 20 depending on the ammount of work acomplished
-
-Point can be claimed by tagging @Jeremie in discord
-
-## 1.2 Status
+## 1.2 Main content
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
 | HOME        | [/](https://www.eco.com/) | [Proposal](https://eco-translations.github.io/website-translations/fr/) | Online | @Jeremie | none
 | ABOUT        | [/about](https://www.eco.com/about) | [Proposal](https://eco-translations.github.io/website-translations/fr/about)   |  Online | @Arthur Weis 
 | Eco is not a bank  | [/eco-is-not-a-bank](https://www.eco.com/posts/eco-is-not-a-bank)   | [Proposal](https://eco-translations.github.io/website-translations/fr/posts/eco-is-not-a-bank)  | Online | @Arthur Weis  | @getordone
-| How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | Proposal | Online | AkaKwak🦆#8686
-| How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | Proposal | Online | AkaKwak🦆#8686
-| New tech: same as the old | [/new-technology](https://www.eco.com/posts/new-technology)  | none 
-|  Blockchain and cryptocurrencies, for real | [/new-technology](https://www.eco.com/posts/blockchain-and-cryptocurrencies)  | Work in progress | @Jeremie
-|  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| Proposal | Online | AkaKwak🦆#8686  
-|  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| none  
+| How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | [Proposal](https://eco-translations.github.io/website-translations/fr/posts/how-money-moved) | Online | @AkaKwak🦆#8686
+| How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | [Proposal](https://eco-translations.github.io/website-translations/fr/posts/how-money-moves) | Online | @AkaKwak🦆#8686
+| New tech: same as the old | [/new-technology](https://www.eco.com/posts/new-technology)  |[Proposal](https://eco-translations.github.io/website-translations/fr/posts/new-technology)  | Online |  @Arthur Weis 
+|  Blockchain and cryptocurrencies, for real | [/blockchain-and-cryptocurrencies](https://www.eco.com/posts/blockchain-and-cryptocurrencies) | [Proposal](https://eco-translations.github.io/website-translations/fr/posts/blockchain-and-cryptocurrencies)  | Online | @siouxx
+|  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| [Proposal](https://eco-translations.github.io/website-translations/fr/posts/how-do-we-not-become-a-bank) | Online | #AkaKwak🦆#8686  
+|  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| [Proposal](https://eco-translations.github.io/website-translations/fr/posts/how-do-we-not-become-a-bank/sioux.html) | Online | @siouxx
+
 
 # 2 FAQ
 
@@ -76,10 +69,10 @@ Are there any restrictions or requirements for my monthly interest deposit? | [u
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-Where can I pay with Eco? | [url](https://support.eco.com/en/articles/4620368-where-can-i-pay-with-eco)
-How do I pay with Eco? | [url](https://support.eco.com/en/articles/4620369-how-do-i-pay-with-eco)
-When will my 5% cash back arrive? | [url](https://support.eco.com/en/articles/4620370-when-will-my-5-cash-back-arrive)
-I lost my gift card code, where can I find that in the Eco app? | [url](https://support.eco.com/en/articles/4843946-i-lost-my-gift-card-code-where-can-i-find-that-in-the-eco-app)
+Where can I pay with Eco? | [url](https://support.eco.com/en/articles/4620368-where-can-i-pay-with-eco)  | | Oline | @Redallica |
+How do I pay with Eco? | [url](https://support.eco.com/en/articles/4620369-how-do-i-pay-with-eco)  | | Oline | @Redallica |
+When will my 5% cash back arrive? | [url](https://support.eco.com/en/articles/4620370-when-will-my-5-cash-back-arrive)  | | Oline | @Redallica |
+I lost my gift card code, where can I find that in the Eco app? | [url](https://support.eco.com/en/articles/4843946-i-lost-my-gift-card-code-where-can-i-find-that-in-the-eco-app)  | | Oline | @Redallica |
 How do I request a refund for a purchase I made with Eco? | [url](https://support.eco.com/en/articles/4620371-how-do-i-request-a-refund-for-a-purchase-i-made-with-eco)
 My balance with Eco isn’t enough to complete my transaction. Does Eco support split payment? | [url](https://support.eco.com/en/articles/4620372-my-balance-with-eco-isn-t-enough-to-complete-my-transaction-does-eco-support-split-payment)
 A merchant is having trouble accepting Eco. Who do I contact? | [url](https://support.eco.com/en/articles/4620373-a-merchant-is-having-trouble-accepting-eco-who-do-i-contact)
@@ -91,9 +84,8 @@ When will you add new merchants? | [url](https://support.eco.com/en/articles/462
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-| Comment gérer mes notifications? | [url](https://support.eco.com/en/articles/4620375-how-do-i-manage-my-notifications) | [Proposal](articles/4620375-how-do-i-manage-my-notifications) | Started | @Redallica | none
-How do I change my password? | [url](https://support.eco.com/en/articles/4620376-how-do-i-change-my-password)
-How do I manage FaceID? | [url](https://support.eco.com/en/articles/4620377-how-do-i-manage-faceid)
-Can I change the email associated with my account? | [url](https://support.eco.com/en/articles/4620380-can-i-change-the-email-associated-with-my-account)
-Can I change my username? | [url](https://support.eco.com/en/articles/4620378-can-i-change-my-username)
-
+| Comment gérer mes notifications? | [url](https://support.eco.com/en/articles/4620375-how-do-i-manage-my-notifications) | [Proposal](articles/4620375-how-do-i-manage-my-notifications) | Oline | @Redallica | none
+How do I change my password? | [url](https://support.eco.com/en/articles/4620376-how-do-i-change-my-password)  | | Oline | @Redallica |
+How do I manage FaceID? | [url](https://support.eco.com/en/articles/4620377-how-do-i-manage-faceid)  | | Oline | @Redallica |
+Can I change the email associated with my account? | [url](https://support.eco.com/en/articles/4620380-can-i-change-the-email-associated-with-my-account)  | | Oline | @Redallica |
+Can I change my username? | [url](https://support.eco.com/en/articles/4620378-can-i-change-my-username)  | | Oline | @Redallica |
