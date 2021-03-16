@@ -15,7 +15,7 @@ All contributions will be rewarded in Eco-points
 | How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | [Proposal](https://eco-community.github.io/website-translations/fr//posts/how-money-moved) | Online | @AkaKwak🦆#8686
 | How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | [Proposal](https://eco-community.github.io/website-translations/fr//posts/how-money-moves) | Online | @AkaKwak🦆#8686
 | New tech: same as the old | [/new-technology](https://www.eco.com/posts/new-technology)  |[Proposal](https://eco-community.github.io/website-translations/fr//posts/new-technology)  | Online |  @Arthur Weis 
-|  Blockchain and cryptocurrencies, for real | [/blockchain-and-cryptocurrencies](https://www.eco.com/posts/blockchain-and-cryptocurrencies) | [Proposal](https://eco-community.github.io/website-translations/fr//posts/blockchain-and-cryptocurrencies)  | Online | @siouxx
+|  Blockchain and cryptocurrencies, for real | [/blockchain-and-cryptocurrencies](https://www.eco.com/posts/blockchain-and-cryptocurrencies) | [Proposal](https://eco-community.github.io/website-translations/fr/posts/blockchain-and-cryptocurrencies)  | Online | @siouxx
 |  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| [Proposal](https://eco-community.github.io/website-translations/fr//posts/how-do-we-not-become-a-bank) | Online | #AkaKwak🦆#8686  
 |  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| [Proposal](https://eco-community.github.io/website-translations/fr//posts/how-do-we-not-become-a-bank/siouxx.html) | Online | @siouxx
 
