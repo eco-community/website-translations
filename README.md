@@ -5,14 +5,13 @@ These are community-driven proposals for the Eco.com website, the translations a
 [Korean](https://eco-community.github.io/website-translations/ko/)  
 [Russian](https://eco-community.github.io/website-translations/ru/)  
 [French](https://eco-community.github.io/website-translations/fr/)  
-[Portuguese (Portugal)](https://eco-community.github.io/website-translations/pt-PT/)  
 
 
 # How can you be involved?
 
 Some ways for you to be involved are to find a broken link and fix it, suggest better translations, make translations to a language that is not available yet, or give your feedback and let the community know how to improve the workflow.
 
-Here's a list of who's contributed to each translation:
+Here's a list of who's contributing to each translation:
 
 | Languages | Maintainers (discord's username) | Status  
 | ------------- |:-------------:| -----: |
