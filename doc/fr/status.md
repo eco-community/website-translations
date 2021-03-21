@@ -38,32 +38,32 @@ All contributions will be rewarded in Eco-points
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-How can I deposit to my Eco account? | [url](https://support.eco.com/en/articles/4620350-how-can-i-deposit-to-my-eco-account)
-Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/5000071-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account)
-Is there a limit on how much I can deposit to Eco? | [url](https://support.eco.com/en/articles/4620362-is-there-a-limit-on-how-much-i-can-deposit-to-eco)
-Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/4620385-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account)
-When can I withdraw funds from Eco? | [url](https://support.eco.com/en/articles/4926007-when-can-i-withdraw-funds-from-eco)
-How long does a bank deposit take to arrive in my Eco account? | [url](https://support.eco.com/en/articles/4620355-how-long-does-a-bank-deposit-take-to-arrive-in-my-eco-account)
-When will my payroll deposit arrive in my Eco account? | [url](https://support.eco.com/en/articles/4620361-when-will-my-payroll-deposit-arrive-in-my-eco-account)
+How can I deposit to my Eco account? | [url](https://support.eco.com/en/articles/4620350-how-can-i-deposit-to-my-eco-account) | | Oline | @Redallica
+Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/5000071-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account)  | | Oline | @Redallica
+Is there a limit on how much I can deposit to Eco? | [url](https://support.eco.com/en/articles/4620362-is-there-a-limit-on-how-much-i-can-deposit-to-eco)  | | Oline | @Redallica
+Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/4620385-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account) | | Oline | @Redallica
+When can I withdraw funds from Eco? | [url](https://support.eco.com/en/articles/4926007-when-can-i-withdraw-funds-from-eco)  | | Oline | @Redallica
+How long does a bank deposit take to arrive in my Eco account? | [url](https://support.eco.com/en/articles/4620355-how-long-does-a-bank-deposit-take-to-arrive-in-my-eco-account)  | | Oline | @Redallica
+When will my payroll deposit arrive in my Eco account? | [url](https://support.eco.com/en/articles/4620361-when-will-my-payroll-deposit-arrive-in-my-eco-account)  | | Oline | @Redallica
 
 ## 2.3 Identity verification
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-What type of ID can I use when submitting verification? | [url](https://support.eco.com/en/articles/4620342-what-type-of-id-can-i-use-when-submitting-verification)
-What can I use for a Proof Of Address document? | [url](https://support.eco.com/en/articles/4620344-what-can-i-use-for-a-proof-of-address-document)
-Do I need to submit a Proof Of Address document?| [url](https://support.eco.com/en/articles/4620343-do-i-need-to-submit-a-proof-of-address-document)
-How long does verification take? | [url](https://support.eco.com/en/articles/4620346-how-long-does-verification-take)
-Why do you need my SSN? | [url](https://support.eco.com/en/articles/4620345-why-do-you-need-my-ssn)
-Why isn’t my state supported by Eco? | [url](https://support.eco.com/en/articles/4620349-why-isn-t-my-state-supported-by-eco)
+What type of ID can I use when submitting verification? | [url](https://support.eco.com/en/articles/4620342-what-type-of-id-can-i-use-when-submitting-verification)  | | Oline | @Redallica
+What can I use for a Proof Of Address document? | [url](https://support.eco.com/en/articles/4620344-what-can-i-use-for-a-proof-of-address-document) | | Oline | @Redallica
+Do I need to submit a Proof Of Address document?| [url](https://support.eco.com/en/articles/4620343-do-i-need-to-submit-a-proof-of-address-document) | | Oline | @Redallica
+How long does verification take? | [url](https://support.eco.com/en/articles/4620346-how-long-does-verification-take) | | Oline | @Redallica
+Why do you need my SSN? | [url](https://support.eco.com/en/articles/4620345-why-do-you-need-my-ssn) | | Oline | @Redallica
+Why isn’t my state supported by Eco? | [url](https://support.eco.com/en/articles/4620349-why-isn-t-my-state-supported-by-eco) | | Oline | @Redallica
 
 ## 2.3 Earning interest
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-Where does the interest in Eco come from? | [url](https://support.eco.com/en/articles/4620363-where-does-the-interest-in-eco-come-from)
-When do I receive my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620364-when-do-i-receive-my-monthly-interest-deposit)
-Are there any restrictions or requirements for my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620365-are-there-any-restrictions-or-requirements-for-my-monthly-interest-deposit)
+Where does the interest in Eco come from? | [url](https://support.eco.com/en/articles/4620363-where-does-the-interest-in-eco-come-from)  | | Oline | @Redallica
+When do I receive my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620364-when-do-i-receive-my-monthly-interest-deposit)  | | Oline | @Redallica
+Are there any restrictions or requirements for my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620365-are-there-any-restrictions-or-requirements-for-my-monthly-interest-deposit)  | | Oline | @Redallica
 
 ## 2.4 Paying with Eco
 
@@ -73,10 +73,10 @@ Where can I pay with Eco? | [url](https://support.eco.com/en/articles/4620368-wh
 How do I pay with Eco? | [url](https://support.eco.com/en/articles/4620369-how-do-i-pay-with-eco)  | | Oline | @Redallica |
 When will my 5% cash back arrive? | [url](https://support.eco.com/en/articles/4620370-when-will-my-5-cash-back-arrive)  | | Oline | @Redallica |
 I lost my gift card code, where can I find that in the Eco app? | [url](https://support.eco.com/en/articles/4843946-i-lost-my-gift-card-code-where-can-i-find-that-in-the-eco-app)  | | Oline | @Redallica |
-How do I request a refund for a purchase I made with Eco? | [url](https://support.eco.com/en/articles/4620371-how-do-i-request-a-refund-for-a-purchase-i-made-with-eco)
-My balance with Eco isn’t enough to complete my transaction. Does Eco support split payment? | [url](https://support.eco.com/en/articles/4620372-my-balance-with-eco-isn-t-enough-to-complete-my-transaction-does-eco-support-split-payment)
-A merchant is having trouble accepting Eco. Who do I contact? | [url](https://support.eco.com/en/articles/4620373-a-merchant-is-having-trouble-accepting-eco-who-do-i-contact)
-When will you add new merchants? | [url](https://support.eco.com/en/articles/4620374-when-will-you-add-new-merchants)
+How do I request a refund for a purchase I made with Eco? | [url](https://support.eco.com/en/articles/4620371-how-do-i-request-a-refund-for-a-purchase-i-made-with-eco)  | | Oline | @Redallica
+My balance with Eco isn’t enough to complete my transaction. Does Eco support split payment? | [url](https://support.eco.com/en/articles/4620372-my-balance-with-eco-isn-t-enough-to-complete-my-transaction-does-eco-support-split-payment)  | | Oline | @Redallica
+A merchant is having trouble accepting Eco. Who do I contact? | [url](https://support.eco.com/en/articles/4620373-a-merchant-is-having-trouble-accepting-eco-who-do-i-contact)  | | Oline | @Redallica
+When will you add new merchants? | [url](https://support.eco.com/en/articles/4620374-when-will-you-add-new-merchants)  | | Oline | @Redallica
 
 ## 2.5 Manage your account
 
