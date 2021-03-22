@@ -28,6 +28,9 @@ All contributions will be rewarded in Eco-points
 | Is my Eco account covered by the FDIC? | [/is-my-eco-account-covered-by-the-fdic](https://support.eco.com/en/articles/4620326-is-my-eco-account-covered-by-the-fdic) | [Proposal](https://eco-community.github.io/website-translations/fr//articles/4620326-is-my-eco-account-covered-by-the-fdic/) | Started | @jeremie | none
 | Are there any fees for using Eco? | [/are-there-any-fees-for-using-eco](https://support.eco.com/en/articles/4620328-are-there-any-fees-for-using-eco) | [Proposal](https://eco-community.github.io/website-translations/fr//articles/4620328-are-there-any-fees-for-using-eco/) | Started | @jeremie | none
 | Why does Eco ask me to agree to terms and conditions from third parties? | [/why-does-eco-ask-me-to-agree-to-terms-and-conditions-from-third-parties](https://support.eco.com/en/articles/4681891-why-does-eco-ask-me-to-agree-to-terms-and-conditions-from-third-parties) | [Proposal](https://eco-community.github.io/website-translations/fr//articles/4681891-why-does-eco-ask-me-to-agree-to-terms-and-conditions-from-third-parties/) | Started | @jeremie | none
+I have an idea for a new feature or want to share feedback
+Are you hiring?
+
 
 ### 2.2 Founding your Eco account
 
@@ -56,6 +59,7 @@ Why isn’t my state supported by Eco? | [url](https://support.eco.com/en/articl
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
+How can I refer my friends to Eco? | [url](https://support.eco.com/en/articles/5062973-how-can-i-refer-my-friends-to-eco)
 Where does the interest in Eco come from? | [url](https://support.eco.com/en/articles/4620363-where-does-the-interest-in-eco-come-from)  | | Oline | @Redallica
 When do I receive my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620364-when-do-i-receive-my-monthly-interest-deposit)  | | Oline | @Redallica
 Are there any restrictions or requirements for my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620365-are-there-any-restrictions-or-requirements-for-my-monthly-interest-deposit)  | | Oline | @Redallica
