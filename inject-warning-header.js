@@ -22,13 +22,13 @@ let enText = `
 `;
 
 let koText = `
-<p>koo This is an <b>unofficial</b> and <b>community-driven</b> translation can be misleading or incorrect. For the <b>official</b> content in English, please visit <a href="https://eco.com">Eco.com</a><br>
+<p>This is an <b>unofficial</b> and <b>community-driven</b> translation can be misleading or incorrect. For the <b>official</b> content in English, please visit <a href="https://eco.com">Eco.com</a><br>
 </p>
 <p>If you find misleading, incorrect, or missing content and you want to contribute, please visit <a href="https://github.com/eco-community/website-translations">The Eco community github</a>
 </p>
 `;
 let ruText = `
-<p> ru This is an <b>unofficial</b> and <b>community-driven</b> translation can be misleading or incorrect. For the <b>official</b> content in English, please visit <a href="https://eco.com">Eco.com</a><br>
+<p>This is an <b>unofficial</b> and <b>community-driven</b> translation can be misleading or incorrect. For the <b>official</b> content in English, please visit <a href="https://eco.com">Eco.com</a><br>
 </p>
 <p>If you find misleading, incorrect, or missing content and you want to contribute, please visit <a href="https://github.com/eco-community/website-translations">The Eco community github</a>
 </p>
