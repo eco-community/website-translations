@@ -60,12 +60,12 @@ Are you hiring?
 
 ### 2.3 Earning interest
 
-| Page                                                                        |                                                              Url                                                              | translation Url | Status | translators | correctors |
-| --------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | :----: | :---------: | :--------: |
-| How can I refer my friends to Eco?                                          |                     [url](https://support.eco.com/en/articles/5062973-how-can-i-refer-my-friends-to-eco)                      |
-| Where does the interest in Eco come from?                                   |                  [url](https://support.eco.com/en/articles/4620363-where-does-the-interest-in-eco-come-from)                  |                 | Oline  | @Redallica  |
-| When do I receive my monthly interest deposit?                              |               [url](https://support.eco.com/en/articles/4620364-when-do-i-receive-my-monthly-interest-deposit)                |                 | Oline  | @Redallica  |
-| Are there any restrictions or requirements for my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620365-are-there-any-restrictions-or-requirements-for-my-monthly-interest-deposit) |                 | Oline  | @Redallica  |
+| Page                                                                        |                                                              Url                                                              |                                   translation Url                                    |  Status  | translators | correctors |
+| --------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------: | :---------: | :--------: |
+| How can I refer my friends to Eco?                                          |                     [url](https://support.eco.com/en/articles/5062973-how-can-i-refer-my-friends-to-eco)                      | https://docs.google.com/document/d/1FZ10Ht-ONOWbhIJvPUW5VknMgXYDgGD_GLlMTNLcyUQ/edit | Proposal | @getordone  |
+| Where does the interest in Eco come from?                                   |                  [url](https://support.eco.com/en/articles/4620363-where-does-the-interest-in-eco-come-from)                  |                                                                                      |  Oline   | @Redallica  |
+| When do I receive my monthly interest deposit?                              |               [url](https://support.eco.com/en/articles/4620364-when-do-i-receive-my-monthly-interest-deposit)                |                                                                                      |  Oline   | @Redallica  |
+| Are there any restrictions or requirements for my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620365-are-there-any-restrictions-or-requirements-for-my-monthly-interest-deposit) |                                                                                      |  Oline   | @Redallica  |
 
 ### 2.4 Paying with Eco
 
