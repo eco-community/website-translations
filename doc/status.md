@@ -1,4 +1,4 @@
-| Languages     | Collaborators | Status  | Details
-| ------------- |:-------------:| -----:|  -----: |
-| French        | @jeremie-olivier | Started | [French status](https://github.com/eco-translations/eco-translations.github.io/blob/master/doc/website-translations/fr/status.md)
-| Spanish       | none      |   Not Started yet |
+Translation collaboration is track on notion !
+See the link below
+
+https://www.notion.so/ecocommunity/Eco-website-Translations-1486067eb99f4178b3b49145005a9708
