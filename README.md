@@ -16,7 +16,8 @@ Here's a list of who's contributing to each translation:
 | Korean                |           @billionaireW            |                                                                                              completed |
 | Russian               | @Sergio \[Nodes.Guru] & @passenger |                                                                                              completed |
 | French                |       @jeremie & @Redallica        | [work in progress](https://github.com/eco-community/website-translations/blob/master/doc/fr/status.md) |
-| Portuguese (Portugal) |               @Saulo               |                                                                                       work in progress |
+| Portuguese (Portugal) |               @Saulo               |                                                                                       work in progress 
+| German                |               @StefanInfinity      |                                                                                       work in progress |
 
 # How to suggest a new translation
 
