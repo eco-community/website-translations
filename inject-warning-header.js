@@ -24,9 +24,9 @@ let enText = `
 `;
 
 let deText = `
-<p>Dies ist eine <b>inoffizielle</b> und von der <b>Community gesteuerte</b> Übersetzung, die irreführend oder falsch sein kann. Für den <b>offiziellen</b> Inhalt in englischer Sprache besuche bitte <a href="https://eco.com/%22%3EEco.com</a><br>
+<p>Dies ist eine <b>inoffizielle</b> und von der <b>Community gesteuerte</b> Übersetzung, die irreführend oder falsch sein kann. Für den <b>offiziellen</b> Inhalt in englischer Sprache besuche bitte <a href="https://eco.com>Eco.com</a><br>
 </p>
-<p>Wenn du irreführende, falsche oder fehlende Inhalte findest und diese korrigieren möchtest, besuche bitte <a href="https://github.com/eco-community/website-translations%22%3EThe Eco community github</a>
+<p>Wenn du irreführende, falsche oder fehlende Inhalte findest und diese korrigieren möchtest, besuche bitte <a href="https://github.com/eco-community/website-translations>The Eco community github</a>
 </p>
 `;
 
