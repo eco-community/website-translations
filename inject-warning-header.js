@@ -3,6 +3,8 @@ isInSupport = (path.search('support') + path.search('collection') + path.search(
 isInFr = path.search('/fr/') != -1
 isInRu = path.search('/ru/') != -1
 isInKo = path.search('/ko/') != -1
+isInDe = path.search('/de/') != -1
+
 
 let content; 
 
@@ -18,6 +20,13 @@ let enText = `
 <p>This is an <b>unofficial</b> and <b>community-driven</b> translation can be misleading or incorrect. For the <b>official</b> content in English, please visit <a href="https://eco.com">Eco.com</a><br>
 </p>
 <p>If you find misleading, incorrect, or missing content and you want to contribute, please visit <a href="https://github.com/eco-community/website-translations">The Eco community github</a>
+</p>
+`;
+
+let deText = `
+<p>Dies ist eine <b>inoffizielle</b> und von der <b>Community gesteuerte</b> Übersetzung, die irreführend oder falsch sein kann. Für den <b>offiziellen</b> Inhalt in englischer Sprache besuche bitte <a href="https://eco.com/%22%3EEco.com</a><br>
+</p>
+<p>Wenn du irreführende, falsche oder fehlende Inhalte findest und diese korrigieren möchtest, besuche bitte <a href="https://github.com/eco-community/website-translations%22%3EThe Eco community github</a>
 </p>
 `;
 
@@ -46,6 +55,8 @@ let headerText;
 if ( isInFr) headerText = frText;
 else if ( isInRu) headerText = ruText;
 else if ( isInKo) headerText = koText;
+else if ( isInDe) headerText = deText;
+
 else headerText = enText;
 
 
