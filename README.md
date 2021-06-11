@@ -6,6 +6,7 @@ This repository contains community-driven proposed translations for the website 
 [Russian](https://eco-community.github.io/website-translations/ru/)  
 [French](https://eco-community.github.io/website-translations/fr/)  
 [German](https://eco-community.github.io/website-translations/de/)
+[Japan](https://eco-community.github.io/website-translations/ja/)
 
 # How can you be involved?
 
@@ -19,6 +20,7 @@ Here's a list of who's contributing to each translation:
 | French                |       @jeremie & @Redallica        | [work in progress](https://github.com/eco-community/website-translations/blob/master/doc/fr/status.md) |
 | Portuguese (Portugal) |               @Saulo               |                                                                                       work in progress 
 | German                |               @StefanInfinity      |                                                                                       work in progress |
+| Japan                 |               @tkm3      |                                                                                       completed        |
 
 # How to suggest a new translation
 
