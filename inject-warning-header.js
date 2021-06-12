@@ -4,6 +4,7 @@ isInFr = path.search('/fr/') != -1
 isInRu = path.search('/ru/') != -1
 isInKo = path.search('/ko/') != -1
 isInDe = path.search('/de/') != -1
+isInJa = path.search('/ja/') != -1
 
 
 let content; 
@@ -14,6 +15,13 @@ else
     content = document.querySelector('.page-wrapper');
 
 
+let jaText = `
+<p>これは非公式なものであり、コミュニティ主導の翻訳であるため、誤解を招いたり、不正確であったりする可能性があります。英語の公式コンテンツについては、 <a href="https://eco.com">Eco.com</a> をご覧ください<br>
+</p>
+<p>誤解を招くような内容、間違った内容、不足している内容を見つけ、貢献したいと思われる方は、
+ <a href="https://github.com/eco-community/website-translations">をご覧ください。</a>
+</p>
+`;
 
 
 let enText = `
@@ -56,6 +64,8 @@ if ( isInFr) headerText = frText;
 else if ( isInRu) headerText = ruText;
 else if ( isInKo) headerText = koText;
 else if ( isInDe) headerText = deText;
+else if ( isInJa) headerText = jaText;
+
 
 else headerText = enText;
 
