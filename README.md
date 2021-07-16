@@ -6,7 +6,7 @@ This repository contains community-driven proposed translations for the website 
 [Russian](https://eco-community.github.io/website-translations/ru/)  
 [French](https://eco-community.github.io/website-translations/fr/)  
 [German](https://eco-community.github.io/website-translations/de/)  
-[Japan](https://eco-community.github.io/website-translations/ja/)
+[Japan](https://eco-community.github.io/website-translations/ja/) 
 [Vietnamien](https://eco-community.github.io/website-translations/vn/)
 
 # How can you be involved?
